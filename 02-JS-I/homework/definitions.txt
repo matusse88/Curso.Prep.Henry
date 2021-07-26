@@ -1,0 +1,20 @@
+ variable == una variable es como armar una caja, ponerle una etiqueta a esa caja para saber que es lo que vamos a guardar adentro, y una vez que pongamos algo adentro, despues va a ser 
+ mas facil saber donde esta cada cosa que querramos usar, para las diferentes tareas que tengamos que hacer durante el dia.
+
+ strings == strings significa soga o cuerda en ingles. Para entender lo que son, strings se le dice a las palabras y cada palabra tiene varias letras, que tambien se llaman caracteres.
+  Entonces se usan las palabras como si fueran una " soga de letras o caracteres " para hablar con una computadora. Cuando escribimos algo entre comillas, la computadora lo ve como varias letras
+  atadas por una soga o string en ingles. 
+
+  funciones (argumentos, return) == para explicar lo que son las funciones, podemos volver a la definicion de variable. Habiamos dicho que usabamos las variables para que sea mas facil hacer 
+  diferentes tareas durante el dia, las funciones serian esas tareas de las que hablabamos. Para hablar con la computadora, nosotros definimos una tarea (una funcion) y explicamos que es lo 
+ que hay que hacer cada vez que escribamos esa tarea(esa explicacion seria el "argumento de la tarea o funcion). Por ejemplo, le decimos a la computadora lo que significa la tarea (o funcion )
+ " limpiar la casa", definimos que es lo que significa (argumento), y que cajas (variables) tendriamos que usar en esa tarea. Despues de haberle explicado a la computadora eso, le pedimos 
+ que cada vez que nosotros escribamos "limpiar la casa" ella haga ciertas acciones con esas cajas (variables), eso es a lo que se llama "return" (devolver).
+
+ Declaraciones IF == siguiendo el hilo explicativo, las declaraciones if, sirven para que la "tarea" (funcion) que le pedimos a la computadora, chequee cierta informacion que le damos, y nos 
+ diga si eso se esta haciendo (true) o no (false). Por ejemplo, si queremos que la computadora nos diga si Juancito puede tomar alcohol, le vamos a pedir que chequee si tiene mas de 18 años.
+ Si Juancito tiene mas de 18 años, nos dira que SI (true) puede tomar alcohol, y en el caso contrario, nos dira que NO (false). Para obtener esa informacion, la computadora usa ciertos simbolos
+ de comparacion como < > =, para poder "chequear" lo que le estamos pidiendo.
+
+ Valores booleanos == Los valores booleanos se usan para decidir si una variable es verdadera (True) o falsa (False). Podemos usar diferentes formas de datos, strings, numbers, etc, y una vez definido,
+ podemos usar diferentes funciones y la computadora ya sabra cual de esos datos, va a ser verdadero o falso, dependiendo el uso que le querramos dar.
