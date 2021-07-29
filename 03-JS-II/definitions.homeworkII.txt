@@ -1,0 +1,11 @@
+for = la declaracion for, sirve para facilitarnos la forma en que la computadora nos devuelve algo que nosotros le pedimos, por ejemplo si le tenemos que pedir que nos devuelva
+'contar hasta un millon ' y no sabemos como hacerlo, vamos a tener que decirle 1 millon de veces, que nos devuelva de a un numero. En cambio, si utilizamos for, podemos decirle, desde donde
+emmpezar ( initialization), hasta donde contar ( eso seria la condition ) y como contar ( eso seria la final expresion). Tambien podemos decirle que hacer una vez que llegue a un millon.
+
+&& 'Y" en ingles AND, || 'O' en ingles OR , ! 'negacion' en ingles NOT, son operadores logicos, es decir simbolos que usamos para comparar en JS valores booleanos, es decir valores que nos devuelven 
+true o false. Por ejemplo, con &&, si comparamos dos valores que son TRUE, el sistema nos va a devolver TRUE, pero si uno de los dos valores es FALSE, o los dos, el sistema siempre va a devolvernos
+FALSE.
+En cambio si usamos OR ||, y tenemos dos valores TRUE, o uno de ellos es TRUE, va a devolver TRUE, porque esta comparando uno OR el otro. Si ambos son FALSE, devolvera FALSE, ya que estariamos
+diciendo 'esto es FALSE' OR (||)'esto es false'. 
+Por ultimo esta la NEGACION o el ! (NOT), que va a devolver lo opuesto a los que nosotros le pidamos, por ejemplo, si yo le pido algo que es FALSE, pero uso ! NOT antes de esa expresion, 
+querra decir que estoy negando que esa expresion es FALSE, por ende, la maquina confirmara eso como TRUE, es decir, es decir lo opuesto.
