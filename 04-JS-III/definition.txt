@@ -1,0 +1,5 @@
+array = si seguimos con el hilo de las explicaciones anteriores, habiamos dicho que las variables eran como cajas, dicho esto, podemos decir de cierta forma, que un ARRAY es un contenedor 
+    mas grande donde puedo poner diferentes tipos de cajas, para luego usar diferentes herramientas, para localizar cada caja en cada contenedor para las diferentes tareas que este haciendo.
+    Hay que tener en cuenta que podemos tener un contenedor mas grande, es decir un array, donde adentro tenga cajas, es decir variables o datos, y a su vez puedo tener otros contenedores,
+    que a su vez pueden tener otras cajas o datos, etc.
+    
