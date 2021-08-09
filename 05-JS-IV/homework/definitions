@@ -1,0 +1,29 @@
+Objetos: Vamos a seguir con el hilo de las anteriores definiciones, usando  las cajas. Podemos imaginar, que una familia se muda, y para mudarse necesitan muchas cajas,
+    categorizarlas, y ponerles nombres. Habiendo imaginado eso, podemos usar como ejemplo, que JUANCITO, pone en un caja, diferentes cosas pero pertencen todas a el, y cuando alguien agarre 
+    esa caja, leera en la etiqueta, su nombre y las cosas que tiene adentro. Asi cuando JUANCITO quiera encontrar algo, leera la etiqueta donde describe de quien es la caja, que contiene, 
+    y podra sacar lo que necesite de ella. 
+
+Propiedadas: las propiedas serian como la descripcion que hay en la etiqueta de la caja de JUNCITO, si leemos la etiqueta de una caja, va a decir, por ejemplo:
+    CAJA DE JUANCITO
+        - MEDIAS : 50 pares
+        - GORRAS: 15
+        - DOCUMENTOS: DNI, PASAPORTE, LICENCIA
+    Las propiedas en este casa seria decir JUANCITO.MEDIAS y la computadora me diria que en esa CAJA hay 50 pares.
+    Si yo fuera una madre, extremadamente maniatica, y anotaria en mi computadora todas las cosas de la mudanza, podria despues buscar en toda la lista, cuantas cajas tiene JUANCITO, o cuantos
+    pares de medias tiene, o si guardo los documentos, y en donde, y muchas cosas mas.
+
+Metodos:
+    Los metodos seria la forma en que la madre maniatica de JUANCITO, decidio escribir en su planilla la forma en que buscaria las cosas en las cajas u OBJETOS de su hijo. Citando un ejemplo,
+    ella podria decirle a la computadora en su planilla, que cuando quiera buscar los DOCUMENTOS de Juancito, le aparezca en su planilla el tipo de documento y las fecha de vencimiento; en
+    en ese caso, la PROPIEDAD documentos la podria haber escrito diferente: DOCUMENTOS = DNI +  FECHA DE VECIMIENTO, PASAPORTE + etc etc, y al citar JUANCITO.DOCUMENTOS recibiria lo que quiere
+    de esa forma.
+
+Bucle for...in 
+    El bucle for ...in seria la forma en que la madre, buscaria en su lista sobre las cosas de JUANCITO algo especifico, para no tener que estar revolviendo la caja, usaria esta forma para que 
+    la computadora el diga en su planilla, como estan las cosas de JUANCITO organizadas en la caja, y asi seria mas facil buscarlas.
+
+Notacaion de puntos vs notacion de corchetes: para hacerlo sencillo, imaginemos una mudanza, miles de cajas por etiquetar, miles de cosas por escribir en la planilla de la madre de JUANCITO,
+    la forma de escribir con corchetes, le tomaria mucho mas tiempo que la notacion por puntos, que achicaria el trabajo de cargar datos, evitaria la mayor probalidad de tener errores al escribir,
+    y sobre todo ayudaria q no perder la paciencia y la cabeza, renegando con JUANCITO y la mudanza.
+
+
