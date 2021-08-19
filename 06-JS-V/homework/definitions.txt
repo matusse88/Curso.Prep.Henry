@@ -1,0 +1,8 @@
+Prototype: un Prototype seria como el origen, la base de algo. Por ejemplo, yo podria decir CASA, y definir como seria el Prototype de casa, pero como ya sabemos, hay diferentes y 
+miles de estilos de casas. Todo en javascript tiene un inicio, un objeto, una forma que se creo ese Prototype, esa herramienta que necesito para crear mas herramientas o cosas. 
+
+
+Constructors de clases: 
+Los constructors de clases en javascript, seria la forma en la que yo defino un ese objeto base, ese inicio, esa forma en que yo quiero definir algo. Cuando creamos una clase de algo, despues
+a esa clase podemos definirle propiedades, funciones, etc etc. Por ejemplo, si creo una clase  CASA, despues puedo definir que cosas tendria esa casa adentro para ser considerada una CASA.
+Luego puedo, decir que esde un color, tiene uno o dos pisos, etc, seguiria siendo una casa, pero ya con propiedades definidas.
